@@ -11,4 +11,4 @@ function persistence(num) {
   return i;
 }
 
-console.log(persistence(999));
+persistence(999);
